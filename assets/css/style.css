@@ -1,0 +1,50 @@
+.qcfb_msg_heading{line-height: 26px;}
+.qcfb_text_color_red{color:red !important;}
+.qcfb_example_image_1{width:600px;}
+.qcfb_example_image_2{width:500px;}
+.qcfb_display_none{display:none}
+.wpfb_pages_loading{line-height: 26px;}
+.wpfb_pages_header{margin-top: 18px;}
+.wpfb_pages_content_area{margin-top: 50px;}
+.wpfb_page_box{background: #fff;
+    display: inline-flex;
+    width: 200px;
+    text-align: center;
+     padding: 0px 10px; 
+    margin: 0 12px 0px 0;
+    text-decoration: none;
+    font-size: 17px;
+    min-height: 150px;
+    justify-content: center;
+    align-items: center;}
+.wpfb_posts_load{line-height: 28px;display:none;margin-left: 10px;}
+#wpfb_reload_fb_post{margin-bottom: 14px;}
+.wpfb_post_title{font-size: 14px;}
+.wpfb_private_reply_conditional_area{margin-top: 12px;}
+.wpfb_logical_container, .wpfb_logical_container_comment{margin-top:12px;margin-bottom:10px;}
+.wpfb_logic_elem{}
+.wpfb_logic_elem select{vertical-align: unset;margin-right:5px}
+.wpfb_reply_comment_area{}
+.wpfb_reply_comment_area p{margin-bottom: 2px;}
+.wpfb_reply_comment_area textarea{width:100%;height: 110px;}
+.wpfb_page_name{}
+.wpfb_page_name img{float: left;
+    margin-right: 10px;
+    border-radius: 50%;}
+.wpfb_page_name span{display: inline-block;
+    margin-top: 16px;}
+.wpfb_campaign_comment_repeatable textarea{width: 100%;
+    height: 110px;}
+#wpfb_campaign_comment_remove{float: right;margin: 5px;}
+.wpfb_pr_status{background: #d27d35;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 15px;}
+.wpfb_cr_status{background: #35d25e;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 15px;}
+.wpfb_cc_status{background: #3548d2;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 15px;}
